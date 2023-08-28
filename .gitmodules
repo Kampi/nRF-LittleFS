@@ -1,0 +1,3 @@
+[submodule "external/FileSystem/littlefs"]
+	path = external/FileSystem/littlefs
+	url = https://github.com/littlefs-project/littlefs
